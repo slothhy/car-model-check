@@ -1,0 +1,6 @@
+selenium==3.141.0
+requests==2.25.1
+protobuf==4.21.12
+python-dotenv==0.21.1
+scrapy==2.7.1
+telegram==0.0.1
