@@ -1,5 +1,5 @@
 # car-model-check
-Retrieves car model from LTA website using Google Vision AI
+Retrieves car model from LTA website using Google Vision AI using a Telegram bot.
 
 ## Installation
 ```
