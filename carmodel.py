@@ -69,7 +69,7 @@ async def browsercheck(context, chat_id):
     d = driver.get("https://vrl.lta.gov.sg/lta/vrl/action/pubfunc?ID=EnquireRoadTaxExpDtProxy")
     # time.sleep(10)
 
-    print(driver.page_source)
+    # print(driver.page_source)
     if "System Maintenance in Progress" in driver.page_source:
         return("System maintenance in progress.")
 
